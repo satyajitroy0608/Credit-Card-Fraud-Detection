@@ -13,7 +13,7 @@ Isolation Forest Algorithm and Local Outlier Factor (LOF) Algorithm are two algo
 
 *Observations*
 
-Accuracy given
+Accuracy observed
 
 1. Isolation Forest Algorithm : 99.74%
 2. Local Outlier Factor Algorithm: 99.65%
