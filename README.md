@@ -9,4 +9,14 @@ _It is important that credit card companies are able to recognize fraudulent cre
 2. Local Outlier Factor (LOF) Algorithm
 3. Support Vector Machine (SVM)
 
-Isolation Forest Algorithm and Local Outlier Factor (LOF) Algorithm are two algorithms which are specially used in classification problems when the dataset is highly biased
+Isolation Forest Algorithm and Local Outlier Factor (LOF) Algorithm are two algorithms which are specially used in classification problems when the dataset is highly biased.
+
+*Observations*
+
+Accuracy given
+
+1. Isolation Forest Algorithm : 99.74%
+2. Local Outlier Factor Algorithm: 99.65%
+3. Support Vector Machine (SVM) : 70.09%
+
+As expected, Isolation Forest Algorithm and Local Outlier Factor Algorithm (LOF) give much better accuracy for classification of transaction as fraud or not as compared to Support Vector Machine (SVM) for this particular biased dataset.
